@@ -1,0 +1,8 @@
+{% block title %}TwinderApp{% endblock %}
+{% block content %}
+    <form action="/showTweets" method="post">
+        <label for="usuario">Usuario de Twitter:  </label>
+        <input type="text" id="usuario" name="usuarioTwitter" /><br>
+        <input type="submit" id="send-user" name="clasifyUser" value="Enviar" />
+    </form>
+{% endblock %}

@@ -1,0 +1,265 @@
+{
+  "arch": "x86_64",
+  "build": "py38h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "requests >=2.1.0",
+    "requests-oauthlib >=0.4.0"
+  ],
+  "extracted_package_dir": "/home/manuel/bin/anaconda3/pkgs/twython-3.8.2-py38h06a4308_0",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/twython-3.8.2.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/twython-3.8.2.dist-info/LICENSE",
+    "lib/python3.8/site-packages/twython-3.8.2.dist-info/METADATA",
+    "lib/python3.8/site-packages/twython-3.8.2.dist-info/RECORD",
+    "lib/python3.8/site-packages/twython-3.8.2.dist-info/REQUESTED",
+    "lib/python3.8/site-packages/twython-3.8.2.dist-info/WHEEL",
+    "lib/python3.8/site-packages/twython-3.8.2.dist-info/direct_url.json",
+    "lib/python3.8/site-packages/twython-3.8.2.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/twython/__init__.py",
+    "lib/python3.8/site-packages/twython/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/twython/__pycache__/advisory.cpython-38.pyc",
+    "lib/python3.8/site-packages/twython/__pycache__/api.cpython-38.pyc",
+    "lib/python3.8/site-packages/twython/__pycache__/compat.cpython-38.pyc",
+    "lib/python3.8/site-packages/twython/__pycache__/endpoints.cpython-38.pyc",
+    "lib/python3.8/site-packages/twython/__pycache__/exceptions.cpython-38.pyc",
+    "lib/python3.8/site-packages/twython/__pycache__/helpers.cpython-38.pyc",
+    "lib/python3.8/site-packages/twython/advisory.py",
+    "lib/python3.8/site-packages/twython/api.py",
+    "lib/python3.8/site-packages/twython/compat.py",
+    "lib/python3.8/site-packages/twython/endpoints.py",
+    "lib/python3.8/site-packages/twython/exceptions.py",
+    "lib/python3.8/site-packages/twython/helpers.py",
+    "lib/python3.8/site-packages/twython/streaming/__init__.py",
+    "lib/python3.8/site-packages/twython/streaming/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/twython/streaming/__pycache__/api.cpython-38.pyc",
+    "lib/python3.8/site-packages/twython/streaming/__pycache__/types.cpython-38.pyc",
+    "lib/python3.8/site-packages/twython/streaming/api.py",
+    "lib/python3.8/site-packages/twython/streaming/types.py"
+  ],
+  "fn": "twython-3.8.2-py38h06a4308_0.conda",
+  "legacy_bz2_md5": "cc6461170637f061c9a7a2930a25addb",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/home/manuel/bin/anaconda3/pkgs/twython-3.8.2-py38h06a4308_0",
+    "type": 1
+  },
+  "md5": "c223ebd339a2953777242b0b3df573dc",
+  "name": "twython",
+  "package_tarball_full_path": "/home/manuel/bin/anaconda3/pkgs/twython-3.8.2-py38h06a4308_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.8/site-packages/twython-3.8.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython-3.8.2.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "c57db2a8f244863a27baacbfc9bbe8dbe45aeaed5cf187a737bead48c8737723",
+        "sha256_in_prefix": "c57db2a8f244863a27baacbfc9bbe8dbe45aeaed5cf187a737bead48c8737723",
+        "size_in_bytes": 1073
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython-3.8.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "06bd6e3bd35721de619d08fbe4ff10af294c2be0eff4bad6c7e3942c080079e3",
+        "sha256_in_prefix": "06bd6e3bd35721de619d08fbe4ff10af294c2be0eff4bad6c7e3942c080079e3",
+        "size_in_bytes": 20114
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython-3.8.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "0e37fe5635ccba4ec365e12dc1c3f60cc5c50f80cdc0e324ccca5bb5472d669e",
+        "sha256_in_prefix": "0e37fe5635ccba4ec365e12dc1c3f60cc5c50f80cdc0e324ccca5bb5472d669e",
+        "size_in_bytes": 1932
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython-3.8.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython-3.8.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "sha256_in_prefix": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython-3.8.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "f96115eaa58e2722f263cd09257bc8ebdf04c9b123c117e5b97cdb7c920433d6",
+        "sha256_in_prefix": "f96115eaa58e2722f263cd09257bc8ebdf04c9b123c117e5b97cdb7c920433d6",
+        "size_in_bytes": 80
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython-3.8.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "5f68e203509e5c9519a77132299ce7bbd61d2304e1813348e2c25248fea6ab07",
+        "sha256_in_prefix": "5f68e203509e5c9519a77132299ce7bbd61d2304e1813348e2c25248fea6ab07",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "f51a48f5289626b1499d3e12a0a7c227af86a4f5051e3a7b5834dfc3657e4587",
+        "sha256_in_prefix": "f51a48f5289626b1499d3e12a0a7c227af86a4f5051e3a7b5834dfc3657e4587",
+        "size_in_bytes": 795
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "39056ad4c7825363d7970b156a23f80901d1a40d2cb896f2833ca0b0b01ec0ab",
+        "sha256_in_prefix": "39056ad4c7825363d7970b156a23f80901d1a40d2cb896f2833ca0b0b01ec0ab",
+        "size_in_bytes": 718
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython/__pycache__/advisory.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "21bfd9177aa414417afef2a523d3d98212d440b52e6a1149ab4092009399d60f",
+        "sha256_in_prefix": "21bfd9177aa414417afef2a523d3d98212d440b52e6a1149ab4092009399d60f",
+        "size_in_bytes": 935
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython/__pycache__/api.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "f45fe2d351b7d83943bf5c5f7c52fac420b9d49b60474ad48f3151319c197914",
+        "sha256_in_prefix": "f45fe2d351b7d83943bf5c5f7c52fac420b9d49b60474ad48f3151319c197914",
+        "size_in_bytes": 19516
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython/__pycache__/compat.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "ac72a8d223135a6216307a113f264e8373263573f83c2d8649a989274594fe2e",
+        "sha256_in_prefix": "ac72a8d223135a6216307a113f264e8373263573f83c2d8649a989274594fe2e",
+        "size_in_bytes": 773
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython/__pycache__/endpoints.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "cc3e0e08aa8d4c397c966784114d2cc1edc5d3fb978bcbdc0ca738552343a536",
+        "sha256_in_prefix": "cc3e0e08aa8d4c397c966784114d2cc1edc5d3fb978bcbdc0ca738552343a536",
+        "size_in_bytes": 46574
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython/__pycache__/exceptions.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "c52616d0ce16491e40cd371b3f706a6663e1ebe773f60537d322ce43adea4b36",
+        "sha256_in_prefix": "c52616d0ce16491e40cd371b3f706a6663e1ebe773f60537d322ce43adea4b36",
+        "size_in_bytes": 2200
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython/__pycache__/helpers.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "46378fba4d394b342a4c9346ccdc84c23c76d6675b0f91caa7fb4bb68bf8ea33",
+        "sha256_in_prefix": "46378fba4d394b342a4c9346ccdc84c23c76d6675b0f91caa7fb4bb68bf8ea33",
+        "size_in_bytes": 825
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython/advisory.py",
+        "path_type": "hardlink",
+        "sha256": "11d060bd14c22f44d40e53ab3b70540640d7c1e1500139dfc2e4c818ee474b41",
+        "sha256_in_prefix": "11d060bd14c22f44d40e53ab3b70540640d7c1e1500139dfc2e4c818ee474b41",
+        "size_in_bytes": 682
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython/api.py",
+        "path_type": "hardlink",
+        "sha256": "8d6921ee14f2026e623be5d1eb854103d2d44779fe818d3499bed0bb345a4cb8",
+        "sha256_in_prefix": "8d6921ee14f2026e623be5d1eb854103d2d44779fe818d3499bed0bb345a4cb8",
+        "size_in_bytes": 29983
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython/compat.py",
+        "path_type": "hardlink",
+        "sha256": "61c8014b48623b84c9bdbc147c203a2878f2cdefebf4c893ec9f1b9307515194",
+        "sha256_in_prefix": "61c8014b48623b84c9bdbc147c203a2878f2cdefebf4c893ec9f1b9307515194",
+        "size_in_bytes": 702
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython/endpoints.py",
+        "path_type": "hardlink",
+        "sha256": "b030ab0f46a2c5cadc40f03c212a77dde3b0e49cf9a75d000c278ca12ceecbdb",
+        "sha256_in_prefix": "b030ab0f46a2c5cadc40f03c212a77dde3b0e49cf9a75d000c278ca12ceecbdb",
+        "size_in_bytes": 44477
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "5f77e5cb38c9bd4fb61082e6f8f0b73140daa7f7a353502456f60a039f395c5c",
+        "sha256_in_prefix": "5f77e5cb38c9bd4fb61082e6f8f0b73140daa7f7a353502456f60a039f395c5c",
+        "size_in_bytes": 1704
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython/helpers.py",
+        "path_type": "hardlink",
+        "sha256": "c3f0216212d77a47ec1a5c9d1e224a59a58ef26755d7b14613f555d8eea03a4d",
+        "sha256_in_prefix": "c3f0216212d77a47ec1a5c9d1e224a59a58ef26755d7b14613f555d8eea03a4d",
+        "size_in_bytes": 888
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython/streaming/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "2185c700fc4d6a34ab86e1e5922546f227f7495e4f5b52afa5066fc77ab7f6c4",
+        "sha256_in_prefix": "2185c700fc4d6a34ab86e1e5922546f227f7495e4f5b52afa5066fc77ab7f6c4",
+        "size_in_bytes": 33
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython/streaming/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "882455e1dc330397663144fa25e4d768bb2fcb207411317f1ff36d0fbc5525c7",
+        "sha256_in_prefix": "882455e1dc330397663144fa25e4d768bb2fcb207411317f1ff36d0fbc5525c7",
+        "size_in_bytes": 191
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython/streaming/__pycache__/api.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "e24a7c8c389b303fd6168b2e19abe92a88ce9dadf44e285292fa653363225be2",
+        "sha256_in_prefix": "e24a7c8c389b303fd6168b2e19abe92a88ce9dadf44e285292fa653363225be2",
+        "size_in_bytes": 6239
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython/streaming/__pycache__/types.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "856dd937aab35a0244c1cb4f62d411bd76edfa2b18a4b240425184fbf5693df2",
+        "sha256_in_prefix": "856dd937aab35a0244c1cb4f62d411bd76edfa2b18a4b240425184fbf5693df2",
+        "size_in_bytes": 3616
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython/streaming/api.py",
+        "path_type": "hardlink",
+        "sha256": "12051abbb2788ad7fa26393d5c6e357e9c3e1e338449e4aa156ca18e74108309",
+        "sha256_in_prefix": "12051abbb2788ad7fa26393d5c6e357e9c3e1e338449e4aa156ca18e74108309",
+        "size_in_bytes": 7971
+      },
+      {
+        "_path": "lib/python3.8/site-packages/twython/streaming/types.py",
+        "path_type": "hardlink",
+        "sha256": "efabb09c2c2ed8c31c5597cd07d26b5805fe6f73976b31706aadd026960534d4",
+        "sha256_in_prefix": "efabb09c2c2ed8c31c5597cd07d26b5805fe6f73976b31706aadd026960534d4",
+        "size_in_bytes": 2950
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "linux",
+  "requested_spec": "defaults/linux-64::twython==3.8.2=py38h06a4308_0",
+  "sha256": "4fadcf25a50ae5df9d6edcfa211764744b6e7fc247c84e6dcce6c0a390448546",
+  "size": 46002,
+  "subdir": "linux-64",
+  "timestamp": 1614080318972,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/twython-3.8.2-py38h06a4308_0.conda",
+  "version": "3.8.2"
+}

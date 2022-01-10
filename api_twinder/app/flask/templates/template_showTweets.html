@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lista de Tweets</title>
+</head>
+<body>
+<h1> @{{ user }}'s statistics: </h1>
+<table border="2px" style="margin-bottom:50px;">
+    {% for index in range(0, 3) %}
+    <tr>
+        <td>{{statistics[index][0][0]}}</td>
+        <td>{{ (statistics[index][0][1] / size) * 100}} %</td>
+    </tr>
+    {% endfor %}
+</table>
+
+<h1> @{{ user }}'s latest tweets with our predictions: </h1>
+
+{% for index in range(0, size) %}
+<li> {{ tweets[index] }}</li>
+<li> --- </li>
+<li> {{ predictions[index] }} </li>
+<li> ******************************************************** </li>
+{% endfor %}
+
+<form action="/showSVM" method="post">
+        <label for="usuario">Continuar? </label>
+        <input type="submit" id="send-user" name="confirma" value="Si" />
+    </form>
+</body>
+</html>

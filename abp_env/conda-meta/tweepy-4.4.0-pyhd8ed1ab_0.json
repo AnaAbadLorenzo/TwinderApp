@@ -1,0 +1,400 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "pysocks >=1.5.7",
+    "python >=3.5",
+    "requests >=2.11.1",
+    "requests-oauthlib >=0.7.0",
+    "six >=1.10.0"
+  ],
+  "extracted_package_dir": "/home/manuel/bin/anaconda3/pkgs/tweepy-4.4.0-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/tweepy-4.4.0.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/tweepy-4.4.0.dist-info/LICENSE",
+    "lib/python3.8/site-packages/tweepy-4.4.0.dist-info/METADATA",
+    "lib/python3.8/site-packages/tweepy-4.4.0.dist-info/RECORD",
+    "lib/python3.8/site-packages/tweepy-4.4.0.dist-info/REQUESTED",
+    "lib/python3.8/site-packages/tweepy-4.4.0.dist-info/WHEEL",
+    "lib/python3.8/site-packages/tweepy-4.4.0.dist-info/direct_url.json",
+    "lib/python3.8/site-packages/tweepy-4.4.0.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/tweepy-4.4.0.dist-info/zip-safe",
+    "lib/python3.8/site-packages/tweepy/__init__.py",
+    "lib/python3.8/site-packages/tweepy/api.py",
+    "lib/python3.8/site-packages/tweepy/asynchronous/__init__.py",
+    "lib/python3.8/site-packages/tweepy/asynchronous/streaming.py",
+    "lib/python3.8/site-packages/tweepy/auth.py",
+    "lib/python3.8/site-packages/tweepy/cache.py",
+    "lib/python3.8/site-packages/tweepy/client.py",
+    "lib/python3.8/site-packages/tweepy/cursor.py",
+    "lib/python3.8/site-packages/tweepy/errors.py",
+    "lib/python3.8/site-packages/tweepy/list.py",
+    "lib/python3.8/site-packages/tweepy/media.py",
+    "lib/python3.8/site-packages/tweepy/mixins.py",
+    "lib/python3.8/site-packages/tweepy/models.py",
+    "lib/python3.8/site-packages/tweepy/pagination.py",
+    "lib/python3.8/site-packages/tweepy/parsers.py",
+    "lib/python3.8/site-packages/tweepy/place.py",
+    "lib/python3.8/site-packages/tweepy/poll.py",
+    "lib/python3.8/site-packages/tweepy/space.py",
+    "lib/python3.8/site-packages/tweepy/streaming.py",
+    "lib/python3.8/site-packages/tweepy/tweet.py",
+    "lib/python3.8/site-packages/tweepy/user.py",
+    "lib/python3.8/site-packages/tweepy/utils.py",
+    "lib/python3.8/site-packages/tweepy/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/tweepy/__pycache__/api.cpython-38.pyc",
+    "lib/python3.8/site-packages/tweepy/asynchronous/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/tweepy/asynchronous/__pycache__/streaming.cpython-38.pyc",
+    "lib/python3.8/site-packages/tweepy/__pycache__/auth.cpython-38.pyc",
+    "lib/python3.8/site-packages/tweepy/__pycache__/cache.cpython-38.pyc",
+    "lib/python3.8/site-packages/tweepy/__pycache__/client.cpython-38.pyc",
+    "lib/python3.8/site-packages/tweepy/__pycache__/cursor.cpython-38.pyc",
+    "lib/python3.8/site-packages/tweepy/__pycache__/errors.cpython-38.pyc",
+    "lib/python3.8/site-packages/tweepy/__pycache__/list.cpython-38.pyc",
+    "lib/python3.8/site-packages/tweepy/__pycache__/media.cpython-38.pyc",
+    "lib/python3.8/site-packages/tweepy/__pycache__/mixins.cpython-38.pyc",
+    "lib/python3.8/site-packages/tweepy/__pycache__/models.cpython-38.pyc",
+    "lib/python3.8/site-packages/tweepy/__pycache__/pagination.cpython-38.pyc",
+    "lib/python3.8/site-packages/tweepy/__pycache__/parsers.cpython-38.pyc",
+    "lib/python3.8/site-packages/tweepy/__pycache__/place.cpython-38.pyc",
+    "lib/python3.8/site-packages/tweepy/__pycache__/poll.cpython-38.pyc",
+    "lib/python3.8/site-packages/tweepy/__pycache__/space.cpython-38.pyc",
+    "lib/python3.8/site-packages/tweepy/__pycache__/streaming.cpython-38.pyc",
+    "lib/python3.8/site-packages/tweepy/__pycache__/tweet.cpython-38.pyc",
+    "lib/python3.8/site-packages/tweepy/__pycache__/user.cpython-38.pyc",
+    "lib/python3.8/site-packages/tweepy/__pycache__/utils.cpython-38.pyc"
+  ],
+  "fn": "tweepy-4.4.0-pyhd8ed1ab_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/home/manuel/bin/anaconda3/pkgs/tweepy-4.4.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "1a25625781cfe807ec3598e7d50c7c16",
+  "name": "tweepy",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/manuel/bin/anaconda3/pkgs/tweepy-4.4.0-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/tweepy-4.4.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/tweepy-4.4.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "95526cfaa18ffe1f84d0a8ee8751ea0ea80aafa9f10e4e53f78b2a8810e7af7e",
+        "sha256_in_prefix": "95526cfaa18ffe1f84d0a8ee8751ea0ea80aafa9f10e4e53f78b2a8810e7af7e",
+        "size_in_bytes": 1077
+      },
+      {
+        "_path": "site-packages/tweepy-4.4.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "8aee635e24d5f974ae7511554830e2789949631d62999c9a8ccb6283782cae28",
+        "sha256_in_prefix": "8aee635e24d5f974ae7511554830e2789949631d62999c9a8ccb6283782cae28",
+        "size_in_bytes": 3115
+      },
+      {
+        "_path": "site-packages/tweepy-4.4.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "992995f5d568ff1d8beee17fa90bd443b4369be8483c13e9868cff26024c57cc",
+        "sha256_in_prefix": "992995f5d568ff1d8beee17fa90bd443b4369be8483c13e9868cff26024c57cc",
+        "size_in_bytes": 3410
+      },
+      {
+        "_path": "site-packages/tweepy-4.4.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/tweepy-4.4.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "5b367c7308e1f25d23b542cd8d8ab51e9afe582a824603ebfbe4d7e0fe48d56a",
+        "sha256_in_prefix": "5b367c7308e1f25d23b542cd8d8ab51e9afe582a824603ebfbe4d7e0fe48d56a",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/tweepy-4.4.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "92b9112fcd935e8978a6c828a8c4c6fbaa888fdbb92885802086176705b8c8f5",
+        "sha256_in_prefix": "92b9112fcd935e8978a6c828a8c4c6fbaa888fdbb92885802086176705b8c8f5",
+        "size_in_bytes": 102
+      },
+      {
+        "_path": "site-packages/tweepy-4.4.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "6490d1b2cdeaed89b90761024c55d8c3ee32cf58aef68759a51234dfe783db17",
+        "sha256_in_prefix": "6490d1b2cdeaed89b90761024c55d8c3ee32cf58aef68759a51234dfe783db17",
+        "size_in_bytes": 7
+      },
+      {
+        "_path": "site-packages/tweepy-4.4.0.dist-info/zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/tweepy/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "4d9acda5fc582b1f73c65fe235bcfba81d1d920693f742057534bc65252c223a",
+        "sha256_in_prefix": "4d9acda5fc582b1f73c65fe235bcfba81d1d920693f742057534bc65252c223a",
+        "size_in_bytes": 1024
+      },
+      {
+        "_path": "site-packages/tweepy/api.py",
+        "path_type": "hardlink",
+        "sha256": "7432c0bd3e1c07c18a81906c0a4806e7922895ffe0937d2fe8033c88bbc5ffd6",
+        "sha256_in_prefix": "7432c0bd3e1c07c18a81906c0a4806e7922895ffe0937d2fe8033c88bbc5ffd6",
+        "size_in_bytes": 134484
+      },
+      {
+        "_path": "site-packages/tweepy/asynchronous/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a988dd7d9156f28bd05e5f56080b3f89f17911096da7ad9fa5c8e78a78a4c363",
+        "sha256_in_prefix": "a988dd7d9156f28bd05e5f56080b3f89f17911096da7ad9fa5c8e78a78a4c363",
+        "size_in_bytes": 434
+      },
+      {
+        "_path": "site-packages/tweepy/asynchronous/streaming.py",
+        "path_type": "hardlink",
+        "sha256": "b6518e87f7a7e55c8e440275ed060a8c5ac2ca0cb9f4a90ca8cb937d2bf6049c",
+        "sha256_in_prefix": "b6518e87f7a7e55c8e440275ed060a8c5ac2ca0cb9f4a90ca8cb937d2bf6049c",
+        "size_in_bytes": 17079
+      },
+      {
+        "_path": "site-packages/tweepy/auth.py",
+        "path_type": "hardlink",
+        "sha256": "c81d42a27d20874259b627ca34c4fba5d24d6158d0377d994029bf121d7e713d",
+        "sha256_in_prefix": "c81d42a27d20874259b627ca34c4fba5d24d6158d0377d994029bf121d7e713d",
+        "size_in_bytes": 6468
+      },
+      {
+        "_path": "site-packages/tweepy/cache.py",
+        "path_type": "hardlink",
+        "sha256": "eca128d493eb1fb8a9b627ef88a2e28b634f297e755ce9bfb3121973cda2bcd9",
+        "sha256_in_prefix": "eca128d493eb1fb8a9b627ef88a2e28b634f297e755ce9bfb3121973cda2bcd9",
+        "size_in_bytes": 12777
+      },
+      {
+        "_path": "site-packages/tweepy/client.py",
+        "path_type": "hardlink",
+        "sha256": "b6908a4739905e40250585b82c9cc3cc4880bdd65d5e02a2a2650847851a84f3",
+        "sha256_in_prefix": "b6908a4739905e40250585b82c9cc3cc4880bdd65d5e02a2a2650847851a84f3",
+        "size_in_bytes": 100610
+      },
+      {
+        "_path": "site-packages/tweepy/cursor.py",
+        "path_type": "hardlink",
+        "sha256": "1eb5b6fc53f2a6efa365fa0bd38893f89df2e5ef3c84100da78e8d9df96cf83b",
+        "sha256_in_prefix": "1eb5b6fc53f2a6efa365fa0bd38893f89df2e5ef3c84100da78e8d9df96cf83b",
+        "size_in_bytes": 9908
+      },
+      {
+        "_path": "site-packages/tweepy/errors.py",
+        "path_type": "hardlink",
+        "sha256": "d8c5afc5397aef25f2106661146e69e310f9502a98c471c9d1842646c1935dee",
+        "sha256_in_prefix": "d8c5afc5397aef25f2106661146e69e310f9502a98c471c9d1842646c1935dee",
+        "size_in_bytes": 3066
+      },
+      {
+        "_path": "site-packages/tweepy/list.py",
+        "path_type": "hardlink",
+        "sha256": "fba8e03a27093a19924e30eb330282d952830f6881d559c73a6b083cb492be5a",
+        "sha256_in_prefix": "fba8e03a27093a19924e30eb330282d952830f6881d559c73a6b083cb492be5a",
+        "size_in_bytes": 1002
+      },
+      {
+        "_path": "site-packages/tweepy/media.py",
+        "path_type": "hardlink",
+        "sha256": "0aba33aca37f10ee74c7baef7b5a5eb5a740c6439e7f508b953f7670142b1cac",
+        "sha256_in_prefix": "0aba33aca37f10ee74c7baef7b5a5eb5a740c6439e7f508b953f7670142b1cac",
+        "size_in_bytes": 1295
+      },
+      {
+        "_path": "site-packages/tweepy/mixins.py",
+        "path_type": "hardlink",
+        "sha256": "8a039ca4f2cb073bb6653798983d748c0a3e5a2114b73946cf7b0097847a18ea",
+        "sha256_in_prefix": "8a039ca4f2cb073bb6653798983d748c0a3e5a2114b73946cf7b0097847a18ea",
+        "size_in_bytes": 881
+      },
+      {
+        "_path": "site-packages/tweepy/models.py",
+        "path_type": "hardlink",
+        "sha256": "0e9476e1620a55ac407fd5a4beff0f939a7d9266df0224ed6ea8ba4a54ca39f0",
+        "sha256_in_prefix": "0e9476e1620a55ac407fd5a4beff0f939a7d9266df0224ed6ea8ba4a54ca39f0",
+        "size_in_bytes": 13882
+      },
+      {
+        "_path": "site-packages/tweepy/pagination.py",
+        "path_type": "hardlink",
+        "sha256": "e3f4494794d837bf9dcff7a9950aa3da4d52a2518d88f54f814e4a912bf3206a",
+        "sha256_in_prefix": "e3f4494794d837bf9dcff7a9950aa3da4d52a2518d88f54f814e4a912bf3206a",
+        "size_in_bytes": 2876
+      },
+      {
+        "_path": "site-packages/tweepy/parsers.py",
+        "path_type": "hardlink",
+        "sha256": "d46c63a7c58625c4af08d44019f7c6f9eed34081461617a38f115bc6bf6b56af",
+        "sha256_in_prefix": "d46c63a7c58625c4af08d44019f7c6f9eed34081461617a38f115bc6bf6b56af",
+        "size_in_bytes": 2471
+      },
+      {
+        "_path": "site-packages/tweepy/place.py",
+        "path_type": "hardlink",
+        "sha256": "07a50e475532e55ac23f31189196149f4b228bbdcb4de09e2f061359d01dbf30",
+        "sha256_in_prefix": "07a50e475532e55ac23f31189196149f4b228bbdcb4de09e2f061359d01dbf30",
+        "size_in_bytes": 865
+      },
+      {
+        "_path": "site-packages/tweepy/poll.py",
+        "path_type": "hardlink",
+        "sha256": "45087fa714fee5f78478120dc0a1efb328c57681f0c199611477b5f55f73b44b",
+        "sha256_in_prefix": "45087fa714fee5f78478120dc0a1efb328c57681f0c199611477b5f55f73b44b",
+        "size_in_bytes": 929
+      },
+      {
+        "_path": "site-packages/tweepy/space.py",
+        "path_type": "hardlink",
+        "sha256": "0309f3b100fa6e9023edaac01f7436d73421c6b0f1931e4b29657b5b351d9768",
+        "sha256_in_prefix": "0309f3b100fa6e9023edaac01f7436d73421c6b0f1931e4b29657b5b351d9768",
+        "size_in_bytes": 1863
+      },
+      {
+        "_path": "site-packages/tweepy/streaming.py",
+        "path_type": "hardlink",
+        "sha256": "49388543ab230ddf8647c17f12d53561ffeab827062cf8c645dcf2e9c960d1a8",
+        "sha256_in_prefix": "49388543ab230ddf8647c17f12d53561ffeab827062cf8c645dcf2e9c960d1a8",
+        "size_in_bytes": 17719
+      },
+      {
+        "_path": "site-packages/tweepy/tweet.py",
+        "path_type": "hardlink",
+        "sha256": "c72df67959f5ac0b5707d619742491671f7f6b32e1fc167aec2cb32d260dfe5a",
+        "sha256_in_prefix": "c72df67959f5ac0b5707d619742491671f7f6b32e1fc167aec2cb32d260dfe5a",
+        "size_in_bytes": 2788
+      },
+      {
+        "_path": "site-packages/tweepy/user.py",
+        "path_type": "hardlink",
+        "sha256": "2c5f967e8408163b0e537b6a83dcc7ecbe22203a28f0f8904f0e627241c418e0",
+        "sha256_in_prefix": "2c5f967e8408163b0e537b6a83dcc7ecbe22203a28f0f8904f0e627241c418e0",
+        "size_in_bytes": 1517
+      },
+      {
+        "_path": "site-packages/tweepy/utils.py",
+        "path_type": "hardlink",
+        "sha256": "04e9b767bed91c477b1ab47982b76434d1a625e1cbb7258c52519c02ef349fce",
+        "sha256_in_prefix": "04e9b767bed91c477b1ab47982b76434d1a625e1cbb7258c52519c02ef349fce",
+        "size_in_bytes": 408
+      },
+      {
+        "_path": "lib/python3.8/site-packages/tweepy/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/tweepy/__pycache__/api.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/tweepy/asynchronous/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/tweepy/asynchronous/__pycache__/streaming.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/tweepy/__pycache__/auth.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/tweepy/__pycache__/cache.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/tweepy/__pycache__/client.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/tweepy/__pycache__/cursor.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/tweepy/__pycache__/errors.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/tweepy/__pycache__/list.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/tweepy/__pycache__/media.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/tweepy/__pycache__/mixins.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/tweepy/__pycache__/models.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/tweepy/__pycache__/pagination.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/tweepy/__pycache__/parsers.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/tweepy/__pycache__/place.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/tweepy/__pycache__/poll.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/tweepy/__pycache__/space.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/tweepy/__pycache__/streaming.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/tweepy/__pycache__/tweet.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/tweepy/__pycache__/user.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/tweepy/__pycache__/utils.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "conda-forge/noarch::tweepy==4.4.0=pyhd8ed1ab_0",
+  "sha256": "bbc1bb025b197ea329579ab7448cc97832a1cd76e00d218e5f11143136e97e00",
+  "size": 53659,
+  "subdir": "noarch",
+  "timestamp": 1637182490977,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/tweepy-4.4.0-pyhd8ed1ab_0.tar.bz2",
+  "version": "4.4.0"
+}

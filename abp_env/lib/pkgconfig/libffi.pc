@@ -1,0 +1,11 @@
+prefix=/home/manuel/bin/anaconda3/envs/abp_env
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/home/manuel/bin/anaconda3/envs/abp_env/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.3
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}
